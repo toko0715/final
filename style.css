@@ -1,42 +1,42 @@
 body {
-    background-color: #000; /* Color de fondo negro */
-    color: #fff; /* Color de texto blanco */
+    background-color: #000; 
+    color: #fff; 
   }
   
   .navbar {
-    background-color: #000 !important; /* Fondo del navbar negro */
+    background-color: #000 !important; 
   }
   
   .navbar-brand, .nav-link {
-    color: #fff !important; /* Texto del navbar blanco */
+    color: #fff !important; 
   }
   
   .card {
-    background-color: #000; /* Fondo de las tarjetas negro */
-    color: #fff; /* Texto de las tarjetas blanco */
-    border: 1px solid #fff; /* Borde blanco */
+    background-color: #000; 
+    color: #fff; 
+    border: 1px solid #fff; 
   }
   
   .bg-light {
-    background-color: #000 !important; /* Fondo negro para secciones claras */
-    color: #fff !important; /* Texto blanco */
+    background-color: #000 !important; 
+    color: #fff !important; 
   }
   
   .bg-primary, .btn-primary {
-    background-color: #000 !important; /* Fondo de botones y encabezados negros */
+    background-color: #000 !important; 
     border-color: #fff !important;
   }
   
   .text-primary {
-    color: #fff !important; /* Texto en blanco para enlaces primarios */
+    color: #fff !important; 
   }
   
   .text-white {
-    color: #fff !important; /* Texto blanco */
+    color: #fff !important; 
   }
   
   .btn-success {
-    background-color: #6c757d !important; /* Fondo gris para botones de éxito */
+    background-color: #6c757d !important; 
     border-color: #6c757d !important;
   }
   

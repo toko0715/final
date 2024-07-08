@@ -1,7 +1,7 @@
 # El Salchichón
 
 ## 1. Introducción
-El Salchichón es una aplicación web diseñada para ofrecer a los usuarios una experiencia única en la compra de productos especializados en charcutería y embutidos. Utilizando tecnologías modernas como HTML y CSS, el sitio web proporciona una plataforma intuitiva y accesible para explorar y adquirir nuestros productos. Este documento proporciona una guía detallada sobre la configuración, estructura y mejores prácticas para asegurar una transición fluida y eficiente, para comprender y mantener el proyecto de manera efectiva.
+El Salchichón es una aplicación web diseñada para ofrecer a los usuarios una experiencia única en la compra de comida rapida. Utilizando tecnologías modernas como HTML y CSS, el sitio web proporciona una plataforma intuitiva y accesible para explorar y adquirir nuestras sabrosas comidas. Este documento proporciona una guía detallada sobre la configuración, estructura y mejores prácticas para asegurar una transición fluida y eficiente, para comprender y mantener el proyecto de manera efectiva.
 
 ## 2. Objetivos
 
@@ -17,7 +17,7 @@ Proveer una documentación clara y completa que facilite a los desarrolladores c
 
 - **Nombre:** El Salchichón
 - **Nombre corto:** ES
-- **Descripción:** Descubre y compra los mejores productos de charcutería y embutidos en un solo lugar. Notas detalladas y videos sobre nuestros productos de interés en el mejor sitio especializado.
+- **Descripción:** Descubre y compra las mejoras comidas rapidas en un solo lugar. Notas detalladas sobre nuestros productos de interés en el mejor sitio especializado.
 
 ### 3.1. Funcionalidades Principales
 - **Catálogo de Productos:** Publicación y gestión de productos relacionados con la charcutería y embutidos.
